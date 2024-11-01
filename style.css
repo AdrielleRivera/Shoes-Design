@@ -20,9 +20,8 @@ img{
 }
 main{
   display:grid;
-  grid-template-columns: 30% 30% 30%;
-  justify-content:center;
-}
+  grid-template-columns: 45% 40% 40%;
+  justify-content:space-between;
 
 div{
   display:inline-block;
