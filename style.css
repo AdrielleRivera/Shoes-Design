@@ -18,6 +18,11 @@ img{
   width:200px;
   height:200px;
 }
+main{
+  display:grid;
+  grid-template-columns: 30% 30% 30%;
+  justify-content:center;
+}
 
 div{
   display:inline-block;
