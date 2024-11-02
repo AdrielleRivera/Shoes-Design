@@ -14,13 +14,14 @@ p{
 }
 
 img{
-  width:200px;
-  height:200px;
+  width:100%;
 }
+
 main{
   display:grid;
-  grid-template-columns: 30% 30% 30%;
+  grid-template-columns: 50% 50%;
   justify-content:flex-end;
+}
 
 div{
   display:inline-block;
